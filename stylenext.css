@@ -1,0 +1,28 @@
+nav{
+    border: solid salmon;
+    background: salmon;
+    padding: 5px;
+}
+a{
+    border: solid orange;
+    background: orange;
+    border-radius: 8px;
+    color: black;
+}
+section{
+    border: solid skyblue;
+    background: skyblue;
+    color: black;
+    font-size: 23px;
+    font-family: sans-serif;
+    width: 1344px;
+    height: 1255px;
+    box-sizing: border-box;
+    margin-left: 233px;
+    margin-right: 433px;
+    align-self: center;
+    border-radius: 8px;
+}
+body{
+    background: black;
+}
