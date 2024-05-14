@@ -1,0 +1,57 @@
+form{
+    font-family: sans-serif;
+    font-size: 43px;
+    padding: 15px ;
+    border: solid gold;
+    background: gold;
+    border-radius: 12px;
+}
+.form1{
+    padding: 15px;
+    border: black solid;
+    background: black;
+    color: azure;
+    margin-left: 434px;
+    margin-right:434px;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+button{
+    color: azure;
+    background: green;
+}
+.rename{
+    margin-left: 63px;
+    margin-bottom: 43px;
+}
+.name{
+    margin-left: 23px;
+    margin-bottom: 43px;
+}
+.age{
+    margin-left: 23px;
+    margin-bottom: 43px;
+}
+.phone{
+    margin-left: 23px;
+    margin-bottom: 43px;
+}
+.they{
+    margin-left: 23px;
+    margin-bottom: 43px;
+}
+.he{
+    margin-left: 23px;
+    margin-bottom: 43px;
+}
+.she{
+    margin-left: 23px;
+    margin-bottom: 43px;
+}
+a{
+    margin-left: 593px;
+    border: solid green;
+    background: green;
+    color: azure;
+    margin-bottom: 43px;
+}
